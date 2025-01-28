@@ -40,7 +40,7 @@ puedes crear encabezados usando los simbolos `#` . dependiendo de la cantidad de
 
 ### Enlaces e Imágenes
 ```markdown
-[Texto del enlace](https://example.com)
+[github](https://github.com)
 ![Texto alternativo de la imagen](https://example.com/imagen.png)
 ```
 
