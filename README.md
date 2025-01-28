@@ -22,4 +22,11 @@ puedes crear encabezados usando los simbolos `#` . dependiendo de la cantidad de
 # encabezado 1
 ## encabezado 2
 ### encabezado 3
+```markdown
+## comandos de git
 
+a continuación se verán unos comandos de git para realizar lo siguiente:
+### revisar el estatus de tu repositorio local
+para revisar el estatus de tu repositorio se utiliza el siguiente comando:
+```bash
+git status
