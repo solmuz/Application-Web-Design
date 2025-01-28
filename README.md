@@ -22,6 +22,7 @@ puedes crear encabezados usando los simbolos `#` . dependiendo de la cantidad de
 # encabezado 1
 ## encabezado 2
 ### encabezado 3
+
 ```markdown
 ## comandos de git
 
