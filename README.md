@@ -1,13 +1,13 @@
 
-# Personal Information
-- **Name:** Jose Daniel Muñoz martinez
-- **Registration Number:** 2941584
-- **Degree:** Software development engineering 
-- **Semester:** 7th semester
+# Información
+- **Nombre:** Jose Daniel Muñoz martinez
+- **matricula:** 2941584
+- **carrera:** Software development engineering 
+- **Semestre:** 7th semester
 
-# Subject Information
-- **Subject Name:** web app design
-- **Professor:** Mario Eduardo Rodríguez Palafox
+# información de la materia
+- **Nombre de la materia:** web app design
+- **Profesor:** Mario Eduardo Rodríguez Palafox
 
 # que es Markdown?
 Markdown es un lenguaje de marcadores de texto plano de sintaxis de formato. su diseño le permite ser convertido a varios formatos de output, pero el uso principal es para convertirlo a HTML para paginas web. Usualmente se implementa para escribir documentación y notas por su facilidad de comprensión y escritura.
@@ -43,7 +43,7 @@ puedes crear encabezados usando los simbolos `#` . dependiendo de la cantidad de
 
 ### Enlaces e Imágenes
 ```markdown
-[Texto del enlace](https://example.com)
+[github](https://github.com)
 ![Texto alternativo de la imagen](https://example.com/imagen.png)
 ```
 
@@ -74,7 +74,8 @@ A continuación, se enumeran los comandos comunes utilizados en Git para gestion
 git status
 ```
 
-### Agregar archivos al área de preparación
+### Agregar archivos individuales o globalmente.
+
 - Agregar un archivo específico:
   ```bash
   git add nombre-del-archivo
@@ -91,7 +92,7 @@ git commit -m "Mensaje descriptivo del commit"
 
 ### Subir los cambios al repositorio remoto
 ```bash
-git push origen rama
+git push origin main
 ```
 
 ### Gestionar ramas
@@ -116,7 +117,3 @@ git push origen rama
 ```bash
 git reset --hard ID-del-commit
 ```
-
----
-
-Espero que esta guía sea útil para ti al trabajar con Markdown y Git.
