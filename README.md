@@ -71,7 +71,8 @@ A continuación, se enumeran los comandos comunes utilizados en Git para gestion
 git status
 ```
 
-### Agregar archivos al área de preparación
+### Agregar archivos individuales o globalmente.
+
 - Agregar un archivo específico:
   ```bash
   git add nombre-del-archivo
