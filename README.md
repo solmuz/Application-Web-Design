@@ -29,6 +29,9 @@ puedes crear encabezados usando los simbolos `#` . dependiendo de la cantidad de
 *Itálica*  
 ~~Tachado~~
 ```
+**texto**  
+*texto*  
+~~texto~~
 
 ### Listas
 - Lista desordenada
