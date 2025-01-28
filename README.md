@@ -89,7 +89,7 @@ git commit -m "Mensaje descriptivo del commit"
 
 ### Subir los cambios al repositorio remoto
 ```bash
-git push origen rama
+git push origin main
 ```
 
 ### Gestionar ramas
@@ -114,7 +114,3 @@ git push origen rama
 ```bash
 git reset --hard ID-del-commit
 ```
-
----
-
-Espero que esta guía sea útil para ti al trabajar con Markdown y Git.
