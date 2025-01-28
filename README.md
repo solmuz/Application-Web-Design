@@ -1,13 +1,13 @@
 
-# Personal Information
-- **Name:** Jose Daniel Muñoz martinez
-- **Registration Number:** 2941584
-- **Degree:** Software development engineering 
-- **Semester:** 7th semester
+# Información
+- **Nombre:** Jose Daniel Muñoz martinez
+- **matricula:** 2941584
+- **carrera:** Software development engineering 
+- **Semestre:** 7th semester
 
-# Subject Information
-- **Subject Name:** web app design
-- **Professor:** Mario Eduardo Rodríguez Palafox
+# información de la materia
+- **Nombre de la materia:** web app design
+- **Profesor:** Mario Eduardo Rodríguez Palafox
 
 # que es Markdown?
 Markdown es un lenguaje de marcadores de texto plano de sintaxis de formato. su diseño le permite ser convertido a varios formatos de output, pero el uso principal es para convertirlo a HTML para paginas web. Usualmente se implementa para escribir documentación y notas por su facilidad de comprensión y escritura.
